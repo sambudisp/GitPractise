@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         println("ini adalah konten komitan ke-2")
+
+        komitan error
     }
 }
