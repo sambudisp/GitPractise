@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
 
         println("ini adalah konten komitan ke-2")
         println("ini adalah konten komitan ke-5")
-        println("ini adalah konten komitan eksperimental")
+        println("perubahan 2")
     }
 }
