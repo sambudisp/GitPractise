@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         println("ini adalah konten komitan ke-5")
         println("perubahan 2")
         println("Perubahan pada baris ini ada dimerge")
-        println("perubahan 1 master")
+        println("perubahan 3 master")
     }
 }
